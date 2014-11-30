@@ -1,0 +1,12 @@
+
+/* Class = "IBUINavigationItem"; title = "Configuration"; ObjectID = "ORd-sl-WsB"; */
+"ORd-sl-WsB.title" = "Configuration";
+
+/* Class = "IBUIButton"; normalTitle = "SAVE"; ObjectID = "V9n-aa-SHw"; */
+"V9n-aa-SHw.normalTitle" = "SAUVEGARDER";
+
+/* Class = "IBUIButton"; normalTitle = "LOAD"; ObjectID = "fzO-l4-0VC"; */
+"fzO-l4-0VC.normalTitle" = "CHARGE";
+
+/* Class = "IBUIBarButtonItem"; title = "Info"; ObjectID = "zxw-IA-z3T"; */
+"zxw-IA-z3T.title" = "Info";

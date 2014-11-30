@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Best Blur
+
+  Created by Mauro Vime Castillo on 5/11/14.
+  Copyright (c) 2014 Mauro Vime Castillo. All rights reserved.
+*/
+"Choose photo" = "Elegir foto";
+"Select picture source:" = "Seleccione fuente:";
+"Take a picture" = "Sacar una foto";
+"Choose from library" = "Librería";
+"Cancel" = "Cancelar";
+"Loading" = "Cargando";
+"Saving" = "Guardando";
+"Photo saved!" = "Foto guardada!";
