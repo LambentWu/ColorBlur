@@ -11,4 +11,7 @@ This app is under the copyright of Mauro Vime Castillo so it remains prohibited 
 
 If you'd like to use this project's code please send an e-mail to mvimeapps@gmail.com
 
-Notice: The code in this app is old and needs to be refactored as soon as possible.
+NOTICE
+=============
+
+The code in this app is old and needs to be refactored as soon as possible. This code doesn't reflect my current Objective-C level.
